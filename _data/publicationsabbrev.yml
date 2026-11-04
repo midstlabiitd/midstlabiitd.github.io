@@ -82,7 +82,7 @@
     Extrusion of Chromatin Loops
   ENTRYTYPE: inproceedings
   ID: kant2023active
-  author_abbrev: A. Kant, Z. Guo, V. Shenoy
+  author_abbrev: A. Kant, Z. Guo, V. B. Shenoy
 - year: '2023'
   month: March
   pages: Z06--002
@@ -93,7 +93,7 @@
     the Morphology of Lamina-associated Domains
   ENTRYTYPE: inproceedings
   ID: guo2023epigenetic
-  author_abbrev: Z. Guo, A. Kant, V. Shenoy
+  author_abbrev: Z. Guo, A. Kant, V. B. Shenoy
 - publisher: Elsevier
   year: '2021'
   number: '3'
@@ -211,7 +211,7 @@
   ENTRYTYPE: article
   ID: floryan2025remodeling
   author_abbrev: M. Floryan, E. Cambria, A. Blazeski, M. F. Coughlin, Z. Wan, G. Offeddu,
-    V. Vinayak, A. Kant, V. Shenoy, R. D. Kamm
+    V. Vinayak, A. Kant, V. B. Shenoy, R. D. Kamm
 - publisher: Nature Publishing Group UK London
   year: '2026'
   pages: '7128'
@@ -225,7 +225,20 @@
   ENTRYTYPE: article
   ID: kim2025snap
   author_abbrev: H. H. Kim, E. Y. Zhang, F. R. Palma, A. Kant, J. A. Martinez-Sarmiento
-    , Z. Guo, R. L. Mauck, V. Shenoy, M. G. Bonini, S. C. Heo, M. Lakadamyali
+    , Z. Guo, R. L. Mauck, V. B. Shenoy, M. G. Bonini, S. C. Heo, M. Lakadamyali
+- publisher: Cold Spring Harbor Laboratory
+  year: '2026'
+  month: November
+  journal: bioRxiv
+  author: Kant, Aayush and Dhankhar, Monika and Joshi, Rohit and Guo, Zixian and
+   Vinayak, Vinayak and Cruz, Diana I and Wang, Kedi and Surovtsev, Ivan V and King, Megan and
+   Majumder, Abhijit and Lee, Jung-Hwan and Kim, Hae-Won and Hinde, Elizabeth and
+   Nader, Guilherme PF and Shenoy, Vivek B.
+  title: Osmotic Coupling of Mechanics and Epigenetics Regulates Chromatin Phase Organization
+  ENTRYTYPE: article
+  ID: kant2026osmotic
+  author_abbrev: A. Kant, M. Dhankhar, R. Joshi, Z. Guo, V. Vinayak, D. I. Cruz, K. Wang,
+   I. V. Surovtsev, M. King, A. Majumder, J. H. Lee, H. W. Kim, E. Hinde, G. P. F. Nader, V. B. Shenoy
 - publisher: null
   year: '2022'
   month: July
