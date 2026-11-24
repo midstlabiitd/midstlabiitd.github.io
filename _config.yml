@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "MIND Lab @ IIT Delhi"
+title                    : "MIDST Lab @ IIT Delhi"
 title_separator          : "-"
 name                     : &name "Aayush Kant"
 description              : &description "Assistant Professor, CBME, IIT Delhi"   # Update this with a general description of your site, this is the default if not overridden by a page

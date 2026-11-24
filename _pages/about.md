@@ -53,11 +53,12 @@ redirect_from:
 
     <div class="hero-text">
       <h1>
-        <span class="accent">M</span>ECHANOBIOLOGY OF
-        <span class="accent">I</span>NJURY A<span class="accent">N</span>D
-        <span class="accent">D</span>EGENERATION LAB
+        <span class="accent">M</span>echanobiology of
+        <span class="accent">I</span>njury and
+        <span class="accent">D</span>egeneration across
+        <span class="accent">S</span>cales and <span class="accent">T</span>ime
       </h1>
-      <p style="text-align: center;">Exploring the multiscale biophysics of injury and degeneration</p>
+      <p style="text-align: center;">Physics-driven exploration of injury and degeneration</p>
     </div>
   </div>
 </div>
@@ -79,7 +80,7 @@ Some color options:
 <br>
 
 <p style="text-align: center;">
-Welcome to the <b>Mechanobiology of Injury and Degeneration (MIND) Lab</b> at IIT Delhi. We are an interdisciplinary computational research laboratory residing within the <a href="https://cbme.iitd.ac.in/">Center for Biomedical Engineering</a> at IIT Delhi.
+Welcome to the <b>Mechanobiology of Injury and Degeneration across Scales and Time (MIDST) Lab</b> at IIT Delhi. We are an interdisciplinary computational research laboratory residing within the <a href="https://cbme.iitd.ac.in/">Center for Biomedical Engineering</a> at IIT Delhi.
 </p>
 
 <!------>
